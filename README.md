@@ -15,6 +15,10 @@ The design's integration of familiar traffic light functionality within the UFO 
 Overall, this UFO street light design is a fascinating and playful take on traffic control infrastructure. It merges the ordinary with the extraordinary, encouraging viewers to rethink the possibilities of design in public spaces. By combining functionality with a touch of fantasy, this concept not only catches the eye but also stimulates the imagination, showcasing the potential for creativity in urban planning and design.
 
 #
+
+> Alex: *"Nevada needs these for roads around Area 51."*
+
+#
 ### Related Links
 
 [Air Bubble Clock](https://github.com/sourceduty/Air_Bubble_Clock)
